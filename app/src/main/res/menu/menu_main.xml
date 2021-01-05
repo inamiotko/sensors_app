@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.projekt_przetwarzanie.MainActivity">
+    <item
+        android:id="@+id/action_gps"
+        android:orderInCategory="100"
+        android:title="@string/action_gps"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_accel"
+        android:orderInCategory="100"
+        android:title="@string/action_accel"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_gyro"
+        android:orderInCategory="100"
+        android:title="@string/action_gyro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_light"
+        android:orderInCategory="100"
+        android:title="@string/action_light"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_proximity"
+        android:orderInCategory="100"
+        android:title="@string/action_prox"
+        app:showAsAction="never" />
+
+</menu>

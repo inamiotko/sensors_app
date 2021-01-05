@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/app/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/app/src/main/res" />
+        <proGuardCfgFiles>
+          <file>file://C:/Program Files/Java/jdk1.8.0_261/tools/proguard/proguard-android.txt</file>
+        </proGuardCfgFiles>
+      </configuration>
+    </facet>
+  </component>
+</module>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="action_gps">Lokalizacja</string>
+    <string name="action_accel">Akcelerometr</string>
+    <string name="action_gyro">Żyroskop</string>
+    <string name="action_light">Czujnik światła</string>
+    <string name="action_prox">Czujnik bliży</string>
+    <string name="proj_text">Projekt z przedmiotu Przetwarzanie Rozproszone w Zastosowaniach Medycznych</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="accel_label">Pomiary z akcelerometru</string>
+    <string name="gyro_label">Pomiary z żyroskopu</string>
+    <string name="gps_label">Pomiary z GPS</string>
+    <string name="light_label">Pomiary z czujnika światła</string>
+    <string name="prox_label">Pomiary z czujnika bliży</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="charts">Charts</string>
+    <string name="wykresy_akcelerometer">Wykresy akcelerometer</string>
+    <string name="wykresy_dla_akcelerometeru">Wykresy dla akcelerometeru</string>
+    <string name="wykresy_dla_yroskopu">Wykresy dla żyroskopu</string>
+    <string name="poka_wykres">Pokaż wykres</string>
+</resources>
